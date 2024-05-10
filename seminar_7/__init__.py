@@ -1,0 +1,1 @@
+__all__ = ['task_1.py', 'task_2.py', 'task_3.py', 'task_5.py', 'task_7.py', 'file_4.py']
